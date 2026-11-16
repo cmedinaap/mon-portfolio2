@@ -10,6 +10,11 @@ body {
   font: 1.1rem/1.6 system-ui, sans-serif;
 }
 
+img.informatique{
+  height: 390px;
+
+}
+
 main {
   max-width: 640px;
   margin: 8vh auto;
